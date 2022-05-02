@@ -1,0 +1,1 @@
+Este projeto tem como objetivo lhe ajudar a usar a ferramenta GIT.
